@@ -33,7 +33,7 @@ const defaultMenu = {
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
   footer: '┗━━━━━━━━⬣\n',
-  after: '*ڪــبــيــࢪڪــم و ࢪڪــ؏ امـــامـــي فــمــن انــتــم حــتــۍ تــتـــحــداونــي* \nwww.instagram.com/essaouidi_yassine',
+  after: '*ڪــبــيــࢪڪــم و ࢪڪــ؏ امـــامـــي فــمــن انــتــم حــتــۍ تــتـــحــداونــي* \n www.instagram.com/essaouidi_yassine',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
