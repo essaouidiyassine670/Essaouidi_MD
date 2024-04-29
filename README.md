@@ -7,16 +7,15 @@ Thank you to
 ▇ruhend2001 ♥
 ▇gata ♥
 ▇and others 😁
-لا أتقن أي لغة برمجة لذا ان اخطأت فلا عذر لي لا نزال في طريق التعلم ... رغم ذلك أهوى التعديل على السكريبتات ههه ♥ اتمنى انك استفذت 
-اي ملاحطة او مساعدة انا هنا
 
-https://instagram.com/noureddine_ouafy
 
-get session code from this link
+https://instagram.com/essaouidi_yassine
 
-https://replit.com/@bobiztestbot/bobiza-qrcode
+get link channel whatsapp 
 
-Im not a dev bot just copy and past 😆 i steel leaning but it's haaaard 😸
- 
-heroku tutorial video :
-https://youtu.be/ypyLVUpK-zc?si=_pRpNkABjo-4_eGG
+https://whatsapp.com/channel/0029Vade0paEwEjsP9ECsR3W
+
+
+get groupe whatsapp 
+
+https://chat.whatsapp.com/DC3fMtolhr28lT3jgZga2I
