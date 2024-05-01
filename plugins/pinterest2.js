@@ -24,7 +24,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
       let imageBuffer = await imageRes.buffer();
 
       // Menggunakan fungsi sendImage untuk mengirim gambar ke WhatsApp
-      await conn.sendFile(m.chat, imageBuffer, 'bobiza.jpg', '');
+      await conn.sendFile(m.chat, imageBuffer, 'essaouidi.jpg', '');
 
       // Tambahkan jeda agar tidak mengirim gambar terlalu cepat
       await new Promise(resolve => setTimeout(resolve, 500));
