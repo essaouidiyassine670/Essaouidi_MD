@@ -58,7 +58,7 @@ var handler = async (m, { conn, args, usedPrefix, command }) => {
         m.chat,
         videoURL,
         "tiktok.mp4",
-        `اذا كنت تحب بوبيزة فتابع صاحبها 😄\ninstagram.com/noureddine_ouafy`,
+        `اذا كنت تحب السويدي فتابع صاحبه 😄\instagram.com/essaouidi_yassine`,
         m,
       );
       setTimeout(async () => {
@@ -66,7 +66,7 @@ var handler = async (m, { conn, args, usedPrefix, command }) => {
           m.chat,
           videoURLWatermark,
           "tiktokwm.mp4",
-          `اذا كنت تحب بوبيزة فتابع صاحبها 😄\ninstagram.com/noureddine_ouafy`,
+          `اذا كنت تحب السويدي فتابع صاحبه 😄\instagram.com/essaouidi_yassine`,
           m,
         );
         await conn.sendFile(
@@ -78,7 +78,7 @@ var handler = async (m, { conn, args, usedPrefix, command }) => {
         );
         conn.reply(
           m.chat,
-          "اذا كنت تحب بوبيزة فتابع صاحبها 😄\ninstagram.com/noureddine_ouafy",
+          "اذا كنت تحب السويدي فتابع صاحبه 😄\instagram.com/essaouidi_yassine",
           m,
         );
       }, 1500);
@@ -150,7 +150,7 @@ var handler = async (m, { conn, args, usedPrefix, command }) => {
 
       await conn.reply(
         m.chat,
-        "اذا كنت تحب بوبيزة فتابع صاحبها 😄\ninstagram.com/noureddine_ouafy",
+        "اذا كنت تحب السويدي فتابع صاحبه 😄\instagram.com/essaouidi_yassine",
         m,
       );
     } catch (error2) {
@@ -181,4 +181,4 @@ async function tryServer1(url) {
   let tiklydownAPI = `https://api.tiklydown.eu.org/api/download?url=${url}`;
   let response = await axios.get(tiklydownAPI);
   return response.data;
-}
+        }
