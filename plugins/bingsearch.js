@@ -20,7 +20,7 @@ ${usedPrefix + command} FACEBOOK`
   conn.sendMessage(m.chat, {text: bing, contextInfo:
 					{
 	"externalAdReply": {
-							"title": 'BOBIZA BING SEARCHING',
+							"title": 'ESSAOUIDI BING SEARCHING',
 							"body": '',
 							"showAdAttribution": true,
 							"mediaType": 1,
@@ -31,7 +31,7 @@ ${usedPrefix + command} FACEBOOK`
 						}
 					}}, {quoted: m})
 					}).catch(err => {
-					m.reply('حذث خطأ حاول لاحقا او راسل\ninstagram.com/noureddine_ouafy')
+					m.reply('حذث خطأ حاول لاحقا او راسل\ninstagram.com/essaouidi_yassine')
 					})
 }
 handler.help = ['bingsearch']
