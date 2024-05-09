@@ -14,7 +14,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                 {
                   name: 'single_select',
                   buttonParamsJson: JSON.stringify({
-                    title: 'دوس هنا ',
+                    title: 'ضغط هنا ',
                     sections: [
                       {
                         title: 'قوائم البوت',
@@ -49,11 +49,12 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 
 handler.help = ['info']
 handler.tags = ['main']
-handler.command = ['menu'allmenu']
+handler.command = ['menu']
 
 export default handler
 
 
 `ملحوظة الكود منقول من قناة السويدي` 
 
-> Essaouidi🇲🇦
+> ESSAOUIDI🇲🇦
+    
