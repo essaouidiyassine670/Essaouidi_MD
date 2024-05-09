@@ -20,7 +20,3 @@ m.reply(awikwok, null, m.mentionedJid ? {
 handler.command = handler.help = ['focus']
 handler.tags = ['tools']
 export default handler
-
-
-
-┃Essaouidi 
