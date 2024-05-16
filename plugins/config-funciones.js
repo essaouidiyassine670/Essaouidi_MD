@@ -15,8 +15,8 @@ ${tradutor.texto1[3]}
 
 --------------------------------
 
-${tradutor.texto2[0]} | TRUE PRIVATE
-${tradutor.texto2[1]}* ${usedPrefix + command} true private
+${tradutor.texto2[0]} | PUBLIC
+${tradutor.texto2[1]}* ${usedPrefix + command} public
 ${tradutor.texto2[2]}
 ${tradutor.texto2[3]}
 
